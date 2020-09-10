@@ -1,5 +1,5 @@
-# Verucal Rio WORDPRESS
-Website sobre o turismo do RIO de JANEIRO feito em WORDPRESS. 
+# Vertical Rio WORDPRESS
+A Vertical RIO é uma empresa de turismo do RIO de JANEIRO feito em WORDPRESS. 
 
 ![Tela principal](https://github.com/smarcelloc/vertical-rio/blob/master/tela.png?raw=true)
 
